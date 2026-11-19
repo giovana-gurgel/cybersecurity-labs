@@ -16,4 +16,4 @@ Consolidar o aprendizado teórico por meio da execução prática e escrita téc
 - **Sistemas e Lógica:** Linux CLI (comandos básicos e manipulação de arquivos), lógica de programação e algoritmos.
 
 ## Contato
-- **LinkedIn:** [Giovana Gurgel / [Acesse meu perfil aqui!]([url](https://www.linkedin.com/in/giovana-gurgel-72160544b/))]
+- **LinkedIn:** [Giovana Gurgel / [[Acesse meu perfil aqui]([url](https://www.linkedin.com/in/giovana-gurgel-72160544b/))!]]
